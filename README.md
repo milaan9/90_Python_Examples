@@ -13,8 +13,8 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
-# 90_Python_Practice
+# 90_Python_Exercises
 
-The best way to learn Python is by practicing examples. The page contains examples on basic concepts of Python. You are advised to take the references from these examples and try them on your own.
+The best way to learn Python is by practicing examples. This repository contains examples on basic concepts of Python. You are advised to take the references from these examples and try them on your own.
 
 All the programs on this page are tested and should work on all platforms.
