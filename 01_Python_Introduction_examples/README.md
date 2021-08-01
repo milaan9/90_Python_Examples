@@ -5,6 +5,6 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
-# 01 Python Introduction examples
+# 01 Python Introduction Examples
 
 In this class, you'll find examples related to python introduction with a detailed explanations.
