@@ -7,4 +7,4 @@
  
 # 01 Python Introduction examples
 
-In this class, you'll learn how to Convert IPython to PDF using python.
+In this class, you'll find examples related to python introduction with a detailed explanations.
