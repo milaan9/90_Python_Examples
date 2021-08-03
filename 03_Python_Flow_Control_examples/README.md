@@ -5,6 +5,6 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
-# 02 Python Flow COntrol Examples
+# 02 Python Flow C0ntrol Examples
 
 In this class, you'll find examples related to python  decision making and loops with a detailed explanations.
