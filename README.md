@@ -18,7 +18,7 @@
 <a href="https://githubtocolab.com/milaan9/90_Python_Examples"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
  
-# 90_Python_Exercises
+# 90_Python_Exercises_and_Challenges
 
 The best way to learn Python is by practicing examples. This repository contains examples on basic concepts of Python. You are advised to take the references from these examples and try them on your own.
 
